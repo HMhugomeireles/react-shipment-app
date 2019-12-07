@@ -8,7 +8,7 @@ Providing information to the customer increases transparency and reduces communi
 
 # Use cases
 
-##The user shall be able to:
+## The user shall be able to:
 - [ ] See shipments in pages of 20 elements per page
 - [ ] Search by shipment id
 - [ ] Sort by different fields (e.g. id, name) in ascending/descending order
