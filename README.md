@@ -6,8 +6,6 @@ Providing information to the customer increases transparency and reduces communi
 
 **The goal is to set up an application which enables the user to view and manage shipments.**
 
-# Use cases
-
 ## The user shall be able to:
 - [ ] See shipments in pages of 20 elements per page
 - [ ] Search by shipment id
