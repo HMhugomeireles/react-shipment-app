@@ -4,6 +4,8 @@ The main goal is for the user to check the shipments at a glance. This allows us
 
 Providing information to the customer increases transparency and reduces communication issues.
 
+**The goal is to set up an application which enables the user to view and manage shipments.**
+
 # Use cases
 
 ##The user shall be able to:
